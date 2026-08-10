@@ -1,0 +1,469 @@
+product group,Sales,Measure,Year
+01.1.1.1 rice,942,current prices,2018
+01.1.1.2 bread,17929,current prices,2018
+01.1.1.3 pasta,3144,current prices,2018
+01.1.1.4 pastry,7338,current prices,2018
+01.1.1.5 other cereal products,5326,current prices,2018
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",18396,current prices,2018
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",15343,current prices,2018
+01.1.2.6 other preserved or prepered meat and preparation based on meat,6547,current prices,2018
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",7828,current prices,2018
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,6127,current prices,2018
+01.1.4.1-3 milk,6014,current prices,2018
+01.1.4.4 youghurt and soured milk,6731,current prices,2018
+01.1.4.5+6 cheese and other milk products,23306,current prices,2018
+01.1.4.7 eggs,3699,current prices,2018
+01.1.5.1 butter,1936,current prices,2018
+01.1.5.2+5 margarine and other edible fats,4018,current prices,2018
+01.1.5.3+4 cooking oil,1144,current prices,2018
+01.1.6.1-7 fruit,17464,current prices,2018
+01.1.6.8 dried fruit,3084,current prices,2018
+01.1.6.9 preserved fruit and fruit-based products,321,current prices,2018
+01.1.7.1-4+7 vegetables and potatoes,19082,current prices,2018
+01.1.7.5 dried vegetables,254,current prices,2018
+01.1.7.6 other preserved or prepared vegetables,5575,current prices,2018
+01.1.7.8 potato products,4213,current prices,2018
+01.1.8.1 sugar,774,current prices,2018
+01.1.8.2 jam and marmalades,1691,current prices,2018
+"01.1.8.3-6 confectionery, chocholate and ice cream",28345,current prices,2018
+01.1.9.1 sauces and seasonings,7228,current prices,2018
+"01.1.9.2 salt, spices and aromatic plant",232,current prices,2018
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3897,current prices,2018
+01.2.1.1 coffee,6161,current prices,2018
+01.2.1.2 tea,840,current prices,2018
+01.2.1.3 cocoa,368,current prices,2018
+01.2.2.1+2 soft drinks and mineral waters,10258,current prices,2018
+01.2.2.3+4 fruit and vegetable juices,8906,current prices,2018
+02.1.1.1 spirits and liquor,7517,current prices,2018
+02.1.2.1+2 wine,22207,current prices,2018
+02.1.3.A beer <3.51 % (volume),2545,current prices,2018
+02.1.3.B beer >3.50 % (volume),9401,current prices,2018
+01.1.1.1 rice,1009,current prices,2019
+01.1.1.2 bread,18967,current prices,2019
+01.1.1.3 pasta,3313,current prices,2019
+01.1.1.4 pastry,8063,current prices,2019
+01.1.1.5 other cereal products,5954,current prices,2019
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",18492,current prices,2019
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",15191,current prices,2019
+01.1.2.6 other preserved or prepered meat and preparation based on meat,6809,current prices,2019
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",7734,current prices,2019
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,6105,current prices,2019
+01.1.4.1-3 milk,5743,current prices,2019
+01.1.4.4 youghurt and soured milk,6129,current prices,2019
+01.1.4.5+6 cheese and other milk products,23749,current prices,2019
+01.1.4.7 eggs,3780,current prices,2019
+01.1.5.1 butter,1980,current prices,2019
+01.1.5.2+5 margarine and other edible fats,4079,current prices,2019
+01.1.5.3+4 cooking oil,1139,current prices,2019
+01.1.6.1-7 fruit,17425,current prices,2019
+01.1.6.8 dried fruit,3050,current prices,2019
+01.1.6.9 preserved fruit and fruit-based products,319,current prices,2019
+01.1.7.1-4+7 vegetables and potatoes,19708,current prices,2019
+01.1.7.5 dried vegetables,265,current prices,2019
+01.1.7.6 other preserved or prepared vegetables,5721,current prices,2019
+01.1.7.8 potato products,4011,current prices,2019
+01.1.8.1 sugar,741,current prices,2019
+01.1.8.2 jam and marmalades,1802,current prices,2019
+"01.1.8.3-6 confectionery, chocholate and ice cream",29007,current prices,2019
+01.1.9.1 sauces and seasonings,7440,current prices,2019
+"01.1.9.2 salt, spices and aromatic plant",235,current prices,2019
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3856,current prices,2019
+01.2.1.1 coffee,6062,current prices,2019
+01.2.1.2 tea,907,current prices,2019
+01.2.1.3 cocoa,373,current prices,2019
+01.2.2.1+2 soft drinks and mineral waters,10404,current prices,2019
+01.2.2.3+4 fruit and vegetable juices,9327,current prices,2019
+02.1.1.1 spirits and liquor,7954,current prices,2019
+02.1.2.1+2 wine,23047,current prices,2019
+02.1.3.A beer <3.51 % (volume),2516,current prices,2019
+02.1.3.B beer >3.50 % (volume),9658,current prices,2019
+01.1.1.1 rice,1137,current prices,2020
+01.1.1.2 bread,19433,current prices,2020
+01.1.1.3 pasta,3749,current prices,2020
+01.1.1.4 pastry,8634,current prices,2020
+01.1.1.5 other cereal products,6479,current prices,2020
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",20577,current prices,2020
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",16396,current prices,2020
+01.1.2.6 other preserved or prepered meat and preparation based on meat,7383,current prices,2020
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",8116,current prices,2020
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,6690,current prices,2020
+01.1.4.1-3 milk,5939,current prices,2020
+01.1.4.4 youghurt and soured milk,6185,current prices,2020
+01.1.4.5+6 cheese and other milk products,25304,current prices,2020
+01.1.4.7 eggs,4016,current prices,2020
+01.1.5.1 butter,2210,current prices,2020
+01.1.5.2+5 margarine and other edible fats,4167,current prices,2020
+01.1.5.3+4 cooking oil,1379,current prices,2020
+01.1.6.1-7 fruit,18456,current prices,2020
+01.1.6.8 dried fruit,3580,current prices,2020
+01.1.6.9 preserved fruit and fruit-based products,356,current prices,2020
+01.1.7.1-4+7 vegetables and potatoes,21426,current prices,2020
+01.1.7.5 dried vegetables,316,current prices,2020
+01.1.7.6 other preserved or prepared vegetables,5845,current prices,2020
+01.1.7.8 potato products,4206,current prices,2020
+01.1.8.1 sugar,865,current prices,2020
+01.1.8.2 jam and marmalades,1990,current prices,2020
+"01.1.8.3-6 confectionery, chocholate and ice cream",30207,current prices,2020
+01.1.9.1 sauces and seasonings,8265,current prices,2020
+"01.1.9.2 salt, spices and aromatic plant",263,current prices,2020
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3986,current prices,2020
+01.2.1.1 coffee,6831,current prices,2020
+01.2.1.2 tea,1115,current prices,2020
+01.2.1.3 cocoa,379,current prices,2020
+01.2.2.1+2 soft drinks and mineral waters,10141,current prices,2020
+01.2.2.3+4 fruit and vegetable juices,10037,current prices,2020
+02.1.1.1 spirits and liquor,9605,current prices,2020
+02.1.2.1+2 wine,25483,current prices,2020
+02.1.3.A beer <3.51 % (volume),2718,current prices,2020
+02.1.3.B beer >3.50 % (volume),11099,current prices,2020
+01.1.1.1 rice,1080,current prices,2021
+01.1.1.2 bread,20733,current prices,2021
+01.1.1.3 pasta,3873,current prices,2021
+01.1.1.4 pastry,9626,current prices,2021
+01.1.1.5 other cereal products,6359,current prices,2021
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",20890,current prices,2021
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",16682,current prices,2021
+01.1.2.6 other preserved or prepered meat and preparation based on meat,7756,current prices,2021
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",7987,current prices,2021
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,6870,current prices,2021
+01.1.4.1-3 milk,5810,current prices,2021
+01.1.4.4 youghurt and soured milk,6169,current prices,2021
+01.1.4.5+6 cheese and other milk products,25945,current prices,2021
+01.1.4.7 eggs,4044,current prices,2021
+01.1.5.1 butter,2197,current prices,2021
+01.1.5.2+5 margarine and other edible fats,4169,current prices,2021
+01.1.5.3+4 cooking oil,1443,current prices,2021
+01.1.6.1-7 fruit,18065,current prices,2021
+01.1.6.8 dried fruit,3508,current prices,2021
+01.1.6.9 preserved fruit and fruit-based products,339,current prices,2021
+01.1.7.1-4+7 vegetables and potatoes,21104,current prices,2021
+01.1.7.5 dried vegetables,283,current prices,2021
+01.1.7.6 other preserved or prepared vegetables,5890,current prices,2021
+01.1.7.8 potato products,4483,current prices,2021
+01.1.8.1 sugar,796,current prices,2021
+01.1.8.2 jam and marmalades,1911,current prices,2021
+"01.1.8.3-6 confectionery, chocholate and ice cream",32342,current prices,2021
+01.1.9.1 sauces and seasonings,8282,current prices,2021
+"01.1.9.2 salt, spices and aromatic plant",266,current prices,2021
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3866,current prices,2021
+01.2.1.1 coffee,7415,current prices,2021
+01.2.1.2 tea,1187,current prices,2021
+01.2.1.3 cocoa,378,current prices,2021
+01.2.2.1+2 soft drinks and mineral waters,11179,current prices,2021
+01.2.2.3+4 fruit and vegetable juices,10604,current prices,2021
+02.1.1.1 spirits and liquor,10374,current prices,2021
+02.1.2.1+2 wine,26271,current prices,2021
+02.1.3.A beer <3.51 % (volume),2841,current prices,2021
+02.1.3.B beer >3.50 % (volume),11349,current prices,2021
+01.1.1.1 rice,1217,current prices,2022
+01.1.1.2 bread,22794,current prices,2022
+01.1.1.3 pasta,4497,current prices,2022
+01.1.1.4 pastry,10976,current prices,2022
+01.1.1.5 other cereal products,6746,current prices,2022
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",22799,current prices,2022
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",17604,current prices,2022
+01.1.2.6 other preserved or prepered meat and preparation based on meat,8571,current prices,2022
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",7934,current prices,2022
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,6939,current prices,2022
+01.1.4.1-3 milk,6316,current prices,2022
+01.1.4.4 youghurt and soured milk,6909,current prices,2022
+01.1.4.5+6 cheese and other milk products,28711,current prices,2022
+01.1.4.7 eggs,4452,current prices,2022
+01.1.5.1 butter,2409,current prices,2022
+01.1.5.2+5 margarine and other edible fats,4836,current prices,2022
+01.1.5.3+4 cooking oil,1611,current prices,2022
+01.1.6.1-7 fruit,18157,current prices,2022
+01.1.6.8 dried fruit,3412,current prices,2022
+01.1.6.9 preserved fruit and fruit-based products,378,current prices,2022
+01.1.7.1-4+7 vegetables and potatoes,21336,current prices,2022
+01.1.7.5 dried vegetables,292,current prices,2022
+01.1.7.6 other preserved or prepared vegetables,6579,current prices,2022
+01.1.7.8 potato products,5124,current prices,2022
+01.1.8.1 sugar,807,current prices,2022
+01.1.8.2 jam and marmalades,2019,current prices,2022
+"01.1.8.3-6 confectionery, chocholate and ice cream",35685,current prices,2022
+01.1.9.1 sauces and seasonings,8626,current prices,2022
+"01.1.9.2 salt, spices and aromatic plant",265,current prices,2022
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",4121,current prices,2022
+01.2.1.1 coffee,8907,current prices,2022
+01.2.1.2 tea,1294,current prices,2022
+01.2.1.3 cocoa,399,current prices,2022
+01.2.2.1+2 soft drinks and mineral waters,12226,current prices,2022
+01.2.2.3+4 fruit and vegetable juices,11577,current prices,2022
+02.1.1.1 spirits and liquor,10173,current prices,2022
+02.1.2.1+2 wine,25870,current prices,2022
+02.1.3.A beer <3.51 % (volume),2709,current prices,2022
+02.1.3.B beer >3.50 % (volume),11106,current prices,2022
+01.1.1.1 rice,1344,current prices,2023
+01.1.1.2 bread,24660,current prices,2023
+01.1.1.3 pasta,4762,current prices,2023
+01.1.1.4 pastry,11147,current prices,2023
+01.1.1.5 other cereal products,7967,current prices,2023
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",25013,current prices,2023
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",18668,current prices,2023
+01.1.2.6 other preserved or prepered meat and preparation based on meat,9471,current prices,2023
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",9819,current prices,2023
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,8122,current prices,2023
+01.1.4.1-3 milk,6982,current prices,2023
+01.1.4.4 youghurt and soured milk,7677,current prices,2023
+01.1.4.5+6 cheese and other milk products,30022,current prices,2023
+01.1.4.7 eggs,4898,current prices,2023
+01.1.5.1 butter,3085,current prices,2023
+01.1.5.2+5 margarine and other edible fats,4644,current prices,2023
+01.1.5.3+4 cooking oil,1738,current prices,2023
+01.1.6.1-7 fruit,20613,current prices,2023
+01.1.6.8 dried fruit,3813,current prices,2023
+01.1.6.9 preserved fruit and fruit-based products,487,current prices,2023
+01.1.7.1-4+7 vegetables and potatoes,23418,current prices,2023
+01.1.7.5 dried vegetables,322,current prices,2023
+01.1.7.6 other preserved or prepared vegetables,6958,current prices,2023
+01.1.7.8 potato products,5716,current prices,2023
+01.1.8.1 sugar,856,current prices,2023
+01.1.8.2 jam and marmalades,1955,current prices,2023
+"01.1.8.3-6 confectionery, chocholate and ice cream",38500,current prices,2023
+01.1.9.1 sauces and seasonings,9623,current prices,2023
+"01.1.9.2 salt, spices and aromatic plant",283,current prices,2023
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",4293,current prices,2023
+01.2.1.1 coffee,8926,current prices,2023
+01.2.1.2 tea,1905,current prices,2023
+01.2.1.3 cocoa,503,current prices,2023
+01.2.2.1+2 soft drinks and mineral waters,13481,current prices,2023
+01.2.2.3+4 fruit and vegetable juices,11972,current prices,2023
+02.1.1.1 spirits and liquor,9945,current prices,2023
+02.1.2.1+2 wine,26481,current prices,2023
+02.1.3.A beer <3.51 % (volume),2774,current prices,2023
+02.1.3.B beer >3.50 % (volume),11597,current prices,2023
+01.1.1.1 rice,823,fixed prices,2018
+01.1.1.2 bread,13693,fixed prices,2018
+01.1.1.3 pasta,2223,fixed prices,2018
+01.1.1.4 pastry,5515,fixed prices,2018
+01.1.1.5 other cereal products,4584,fixed prices,2018
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",12279,fixed prices,2018
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",12692,fixed prices,2018
+01.1.2.6 other preserved or prepered meat and preparation based on meat,5423,fixed prices,2018
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",3890,fixed prices,2018
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,4257,fixed prices,2018
+01.1.4.1-3 milk,3653,fixed prices,2018
+01.1.4.4 youghurt and soured milk,4606,fixed prices,2018
+01.1.4.5+6 cheese and other milk products,15909,fixed prices,2018
+01.1.4.7 eggs,2485,fixed prices,2018
+01.1.5.1 butter,1026,fixed prices,2018
+01.1.5.2+5 margarine and other edible fats,2507,fixed prices,2018
+01.1.5.3+4 cooking oil,1072,fixed prices,2018
+01.1.6.1-7 fruit,8130,fixed prices,2018
+01.1.6.8 dried fruit,1893,fixed prices,2018
+01.1.6.9 preserved fruit and fruit-based products,197,fixed prices,2018
+01.1.7.1-4+7 vegetables and potatoes,12709,fixed prices,2018
+01.1.7.5 dried vegetables,195,fixed prices,2018
+01.1.7.6 other preserved or prepared vegetables,4692,fixed prices,2018
+01.1.7.8 potato products,4003,fixed prices,2018
+01.1.8.1 sugar,685,fixed prices,2018
+01.1.8.2 jam and marmalades,1137,fixed prices,2018
+"01.1.8.3-6 confectionery, chocholate and ice cream",24021,fixed prices,2018
+01.1.9.1 sauces and seasonings,5986,fixed prices,2018
+"01.1.9.2 salt, spices and aromatic plant",220,fixed prices,2018
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3305,fixed prices,2018
+01.2.1.1 coffee,4620,fixed prices,2018
+01.2.1.2 tea,593,fixed prices,2018
+01.2.1.3 cocoa,383,fixed prices,2018
+01.2.2.1+2 soft drinks and mineral waters,8312,fixed prices,2018
+01.2.2.3+4 fruit and vegetable juices,6869,fixed prices,2018
+02.1.1.1 spirits and liquor,6817,fixed prices,2018
+02.1.2.1+2 wine,18851,fixed prices,2018
+02.1.3.A beer <3.51 % (volume),2034,fixed prices,2018
+02.1.3.B beer >3.50 % (volume),7961,fixed prices,2018
+01.1.1.1 rice,819,fixed prices,2019
+01.1.1.2 bread,13912,fixed prices,2019
+01.1.1.3 pasta,2268,fixed prices,2019
+01.1.1.4 pastry,5816,fixed prices,2019
+01.1.1.5 other cereal products,4762,fixed prices,2019
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",12156,fixed prices,2019
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",12121,fixed prices,2019
+01.1.2.6 other preserved or prepered meat and preparation based on meat,5440,fixed prices,2019
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",3597,fixed prices,2019
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,4003,fixed prices,2019
+01.1.4.1-3 milk,3487,fixed prices,2019
+01.1.4.4 youghurt and soured milk,4143,fixed prices,2019
+01.1.4.5+6 cheese and other milk products,15921,fixed prices,2019
+01.1.4.7 eggs,2445,fixed prices,2019
+01.1.5.1 butter,1005,fixed prices,2019
+01.1.5.2+5 margarine and other edible fats,2475,fixed prices,2019
+01.1.5.3+4 cooking oil,1059,fixed prices,2019
+01.1.6.1-7 fruit,8417,fixed prices,2019
+01.1.6.8 dried fruit,1838,fixed prices,2019
+01.1.6.9 preserved fruit and fruit-based products,192,fixed prices,2019
+01.1.7.1-4+7 vegetables and potatoes,11941,fixed prices,2019
+01.1.7.5 dried vegetables,189,fixed prices,2019
+01.1.7.6 other preserved or prepared vegetables,4628,fixed prices,2019
+01.1.7.8 potato products,3515,fixed prices,2019
+01.1.8.1 sugar,643,fixed prices,2019
+01.1.8.2 jam and marmalades,1099,fixed prices,2019
+"01.1.8.3-6 confectionery, chocholate and ice cream",24112,fixed prices,2019
+01.1.9.1 sauces and seasonings,6062,fixed prices,2019
+"01.1.9.2 salt, spices and aromatic plant",221,fixed prices,2019
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3215,fixed prices,2019
+01.2.1.1 coffee,4548,fixed prices,2019
+01.2.1.2 tea,633,fixed prices,2019
+01.2.1.3 cocoa,394,fixed prices,2019
+01.2.2.1+2 soft drinks and mineral waters,8097,fixed prices,2019
+01.2.2.3+4 fruit and vegetable juices,7100,fixed prices,2019
+02.1.1.1 spirits and liquor,7150,fixed prices,2019
+02.1.2.1+2 wine,19063,fixed prices,2019
+02.1.3.A beer <3.51 % (volume),1951,fixed prices,2019
+02.1.3.B beer >3.50 % (volume),8088,fixed prices,2019
+01.1.1.1 rice,913,fixed prices,2020
+01.1.1.2 bread,14092,fixed prices,2020
+01.1.1.3 pasta,2492,fixed prices,2020
+01.1.1.4 pastry,6154,fixed prices,2020
+01.1.1.5 other cereal products,5134,fixed prices,2020
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",13080,fixed prices,2020
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",12517,fixed prices,2020
+01.1.2.6 other preserved or prepered meat and preparation based on meat,5643,fixed prices,2020
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",3712,fixed prices,2020
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,4300,fixed prices,2020
+01.1.4.1-3 milk,3626,fixed prices,2020
+01.1.4.4 youghurt and soured milk,4148,fixed prices,2020
+01.1.4.5+6 cheese and other milk products,17069,fixed prices,2020
+01.1.4.7 eggs,2589,fixed prices,2020
+01.1.5.1 butter,1138,fixed prices,2020
+01.1.5.2+5 margarine and other edible fats,2558,fixed prices,2020
+01.1.5.3+4 cooking oil,1254,fixed prices,2020
+01.1.6.1-7 fruit,8267,fixed prices,2020
+01.1.6.8 dried fruit,2101,fixed prices,2020
+01.1.6.9 preserved fruit and fruit-based products,209,fixed prices,2020
+01.1.7.1-4+7 vegetables and potatoes,13090,fixed prices,2020
+01.1.7.5 dried vegetables,212,fixed prices,2020
+01.1.7.6 other preserved or prepared vegetables,4561,fixed prices,2020
+01.1.7.8 potato products,3721,fixed prices,2020
+01.1.8.1 sugar,730,fixed prices,2020
+01.1.8.2 jam and marmalades,1136,fixed prices,2020
+"01.1.8.3-6 confectionery, chocholate and ice cream",24601,fixed prices,2020
+01.1.9.1 sauces and seasonings,6558,fixed prices,2020
+"01.1.9.2 salt, spices and aromatic plant",238,fixed prices,2020
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3255,fixed prices,2020
+01.2.1.1 coffee,4860,fixed prices,2020
+01.2.1.2 tea,784,fixed prices,2020
+01.2.1.3 cocoa,393,fixed prices,2020
+01.2.2.1+2 soft drinks and mineral waters,7718,fixed prices,2020
+01.2.2.3+4 fruit and vegetable juices,7404,fixed prices,2020
+02.1.1.1 spirits and liquor,8538,fixed prices,2020
+02.1.2.1+2 wine,20756,fixed prices,2020
+02.1.3.A beer <3.51 % (volume),2073,fixed prices,2020
+02.1.3.B beer >3.50 % (volume),9194,fixed prices,2020
+01.1.1.1 rice,864,fixed prices,2021
+01.1.1.2 bread,14869,fixed prices,2021
+01.1.1.3 pasta,2556,fixed prices,2021
+01.1.1.4 pastry,6766,fixed prices,2021
+01.1.1.5 other cereal products,5012,fixed prices,2021
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",12955,fixed prices,2021
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",12681,fixed prices,2021
+01.1.2.6 other preserved or prepered meat and preparation based on meat,5904,fixed prices,2021
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",3679,fixed prices,2021
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,4445,fixed prices,2021
+01.1.4.1-3 milk,3521,fixed prices,2021
+01.1.4.4 youghurt and soured milk,4103,fixed prices,2021
+01.1.4.5+6 cheese and other milk products,17318,fixed prices,2021
+01.1.4.7 eggs,2510,fixed prices,2021
+01.1.5.1 butter,1107,fixed prices,2021
+01.1.5.2+5 margarine and other edible fats,2483,fixed prices,2021
+01.1.5.3+4 cooking oil,1301,fixed prices,2021
+01.1.6.1-7 fruit,8429,fixed prices,2021
+01.1.6.8 dried fruit,2077,fixed prices,2021
+01.1.6.9 preserved fruit and fruit-based products,201,fixed prices,2021
+01.1.7.1-4+7 vegetables and potatoes,13051,fixed prices,2021
+01.1.7.5 dried vegetables,196,fixed prices,2021
+01.1.7.6 other preserved or prepared vegetables,4611,fixed prices,2021
+01.1.7.8 potato products,3963,fixed prices,2021
+01.1.8.1 sugar,675,fixed prices,2021
+01.1.8.2 jam and marmalades,1098,fixed prices,2021
+"01.1.8.3-6 confectionery, chocholate and ice cream",26135,fixed prices,2021
+01.1.9.1 sauces and seasonings,6550,fixed prices,2021
+"01.1.9.2 salt, spices and aromatic plant",233,fixed prices,2021
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",3098,fixed prices,2021
+01.2.1.1 coffee,4999,fixed prices,2021
+01.2.1.2 tea,821,fixed prices,2021
+01.2.1.3 cocoa,382,fixed prices,2021
+01.2.2.1+2 soft drinks and mineral waters,8434,fixed prices,2021
+01.2.2.3+4 fruit and vegetable juices,7671,fixed prices,2021
+02.1.1.1 spirits and liquor,9163,fixed prices,2021
+02.1.2.1+2 wine,21277,fixed prices,2021
+02.1.3.A beer <3.51 % (volume),2152,fixed prices,2021
+02.1.3.B beer >3.50 % (volume),9341,fixed prices,2021
+01.1.1.1 rice,856,fixed prices,2022
+01.1.1.2 bread,14788,fixed prices,2022
+01.1.1.3 pasta,2581,fixed prices,2022
+01.1.1.4 pastry,6888,fixed prices,2022
+01.1.1.5 other cereal products,4649,fixed prices,2022
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",12399,fixed prices,2022
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",12296,fixed prices,2022
+01.1.2.6 other preserved or prepered meat and preparation based on meat,5995,fixed prices,2022
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",3239,fixed prices,2022
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,4093,fixed prices,2022
+01.1.4.1-3 milk,3196,fixed prices,2022
+01.1.4.4 youghurt and soured milk,3913,fixed prices,2022
+01.1.4.5+6 cheese and other milk products,16415,fixed prices,2022
+01.1.4.7 eggs,2413,fixed prices,2022
+01.1.5.1 butter,1027,fixed prices,2022
+01.1.5.2+5 margarine and other edible fats,2369,fixed prices,2022
+01.1.5.3+4 cooking oil,1188,fixed prices,2022
+01.1.6.1-7 fruit,7718,fixed prices,2022
+01.1.6.8 dried fruit,1878,fixed prices,2022
+01.1.6.9 preserved fruit and fruit-based products,208,fixed prices,2022
+01.1.7.1-4+7 vegetables and potatoes,11784,fixed prices,2022
+01.1.7.5 dried vegetables,192,fixed prices,2022
+01.1.7.6 other preserved or prepared vegetables,4783,fixed prices,2022
+01.1.7.8 potato products,4001,fixed prices,2022
+01.1.8.1 sugar,672,fixed prices,2022
+01.1.8.2 jam and marmalades,1128,fixed prices,2022
+"01.1.8.3-6 confectionery, chocholate and ice cream",27189,fixed prices,2022
+01.1.9.1 sauces and seasonings,6323,fixed prices,2022
+"01.1.9.2 salt, spices and aromatic plant",217,fixed prices,2022
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",2965,fixed prices,2022
+01.2.1.1 coffee,4434,fixed prices,2022
+01.2.1.2 tea,838,fixed prices,2022
+01.2.1.3 cocoa,379,fixed prices,2022
+01.2.2.1+2 soft drinks and mineral waters,8916,fixed prices,2022
+01.2.2.3+4 fruit and vegetable juices,7996,fixed prices,2022
+02.1.1.1 spirits and liquor,8893,fixed prices,2022
+02.1.2.1+2 wine,20475,fixed prices,2022
+02.1.3.A beer <3.51 % (volume),1972,fixed prices,2022
+02.1.3.B beer >3.50 % (volume),8980,fixed prices,2022
+01.1.1.1 rice,840,fixed prices,2023
+01.1.1.2 bread,14181,fixed prices,2023
+01.1.1.3 pasta,2332,fixed prices,2023
+01.1.1.4 pastry,6312,fixed prices,2023
+01.1.1.5 other cereal products,4885,fixed prices,2023
+"01.1.2.1-4+7 cattle-, pig-, sheep-, lamb- and wild animal meat",12651,fixed prices,2023
+"01.1.2.5 dried, salted or smoked meat and edible slaughter waste products",11824,fixed prices,2023
+01.1.2.6 other preserved or prepered meat and preparation based on meat,6010,fixed prices,2023
+"01.1.3.1-3 fish and shellfish (fresh, chilled, frozen, dried, smoked or salted)",3308,fixed prices,2023
+01.1.3.4 preserved or prepared fish and shellfish and fish and shellfish based preparations,4032,fixed prices,2023
+01.1.4.1-3 milk,3166,fixed prices,2023
+01.1.4.4 youghurt and soured milk,3892,fixed prices,2023
+01.1.4.5+6 cheese and other milk products,15334,fixed prices,2023
+01.1.4.7 eggs,2221,fixed prices,2023
+01.1.5.1 butter,1194,fixed prices,2023
+01.1.5.2+5 margarine and other edible fats,2012,fixed prices,2023
+01.1.5.3+4 cooking oil,1073,fixed prices,2023
+01.1.6.1-7 fruit,8006,fixed prices,2023
+01.1.6.8 dried fruit,1912,fixed prices,2023
+01.1.6.9 preserved fruit and fruit-based products,244,fixed prices,2023
+01.1.7.1-4+7 vegetables and potatoes,11130,fixed prices,2023
+01.1.7.5 dried vegetables,187,fixed prices,2023
+01.1.7.6 other preserved or prepared vegetables,4459,fixed prices,2023
+01.1.7.8 potato products,3732,fixed prices,2023
+01.1.8.1 sugar,504,fixed prices,2023
+01.1.8.2 jam and marmalades,987,fixed prices,2023
+"01.1.8.3-6 confectionery, chocholate and ice cream",25465,fixed prices,2023
+01.1.9.1 sauces and seasonings,6289,fixed prices,2023
+"01.1.9.2 salt, spices and aromatic plant",200,fixed prices,2023
+"01.1.9.3+4 yeast, deserts, soups and other food product not mentioned",2636,fixed prices,2023
+01.2.1.1 coffee,4114,fixed prices,2023
+01.2.1.2 tea,1128,fixed prices,2023
+01.2.1.3 cocoa,377,fixed prices,2023
+01.2.2.1+2 soft drinks and mineral waters,9152,fixed prices,2023
+01.2.2.3+4 fruit and vegetable juices,6936,fixed prices,2023
+02.1.1.1 spirits and liquor,8431,fixed prices,2023
+02.1.2.1+2 wine,19833,fixed prices,2023
+02.1.3.A beer <3.51 % (volume),1798,fixed prices,2023
+02.1.3.B beer >3.50 % (volume),8807,fixed prices,2023
