@@ -1,0 +1,160 @@
+
+-- ============================================================
+-- PHASE 1 KEY FINDINGS
+-- ============================================================
+--
+-- 1. Four cleaned datasets were successfully loaded into MySQL:
+--    food_cpi, food_sales, import_prices and eu_hicp.
+--
+-- 2. The datasets cover the common analytical period 2018–2023.
+--
+-- 3. food_cpi, import_prices and eu_hicp contain monthly data,
+--    while food_sales contains annual data.
+--
+-- 4. food_cpi contains 10 selected food-product categories.
+--    food_sales contains 39 product categories and two measures:
+--    current prices and fixed prices.
+--
+-- 5. import_prices represents the aggregate "10 Food products"
+--    group rather than individual product categories.
+--
+-- 6. eu_hicp provides comparable food-price data for Sweden
+--    and the EU27.
+-- ============================================================
+
+-- ============================================================
+-- PHASE 2 KEY FINDINGS
+-- ============================================================
+--
+-- 1. All 10 food categories increased in price between
+--    January 2018 and December 2023.
+--
+-- 2. Sugar recorded the largest increase at +64.06%,
+--    followed by vegetable oils (+60.39%) and eggs (+55.05%).
+--
+-- 3. Even the category with the smallest increase,
+--    fruit-bearing vegetables, increased by +46.11%.
+--
+-- 4. Average food CPI remained relatively stable through 2021,
+--    followed by a sharp acceleration in 2022 (+10.33%) and
+--    a further increase in 2023 (+13.52%).
+--
+-- 5. The results indicate that the major acceleration in food
+--    prices occurred after 2021 rather than being a steady
+--    increase throughout the entire period.
+--
+-- Note: The average food CPI is an unweighted average of the
+-- selected categories and should not be interpreted as an
+-- official weighted inflation measure.
+-- ============================================================
+
+-- ============================================================
+-- PHASE 3 KEY FINDINGS
+-- ============================================================
+--
+-- 1. Fixed-price food sales increased through 2021, reaching
+--    236,631, before declining in both 2022 and 2023.
+--
+-- 2. Fixed-price food sales declined by 6.36% between 2021
+--    and 2023.
+--
+-- 3. The decline was broad-based: 34 of the 39 categories
+--    recorded lower fixed-price sales between 2021 and 2023.
+--
+-- 4. Sugar recorded the largest category-level decline
+--    (-25.33%), followed by margarine and other edible fats
+--    (-18.97%) and coffee (-17.70%).
+--
+-- 5. A small number of categories increased, with tea showing
+--    the largest increase (+37.39%).
+--
+-- 6. The results show weaker fixed-price sales activity during
+--    the period of rapid food-price increases.
+--
+-- Note: Fixed-price sales are used as a proxy for real sales
+-- activity and should not be interpreted as physical quantities.
+-- The analysis is descriptive and does not establish causality.
+-- ============================================================
+
+-- ============================================================
+-- PHASE 4 KEY FINDINGS
+-- ============================================================
+--
+-- 1. The aggregate import-price index for the "10 Food products"
+--    group remained relatively stable through 2021.
+--
+-- 2. Import prices increased sharply in 2022 (+23.38%) and
+--    increased by a further 15.18% in 2023.
+--
+-- 3. Between 2021 and 2023, the import-price index increased
+--    by approximately 42.1%.
+--
+-- 4. Consumer food CPI also accelerated during 2022–2023,
+--    but increased by approximately 25.3% between 2021 and 2023.
+--
+-- 5. The stronger increase in import prices compared with
+--    consumer food CPI indicates substantial upstream price
+--    pressure during the period.
+--
+-- Note: The import-price dataset represents one aggregate
+-- "10 Food products" series, so category-level import-price
+-- comparisons were not performed.
+--
+-- Note: The descriptive analysis does not establish that
+-- import-price increases caused consumer-price increases.
+-- ============================================================
+
+-- ============================================================
+-- PHASE 5 KEY FINDINGS
+-- ============================================================
+--
+-- 1. Sweden's food HICP remained slightly above the EU27
+--    average throughout 2018–2023.
+--
+-- 2. The largest relative difference occurred in 2019,
+--    when Sweden's HICP was 2.11% above the EU27.
+--
+-- 3. The gap narrowed substantially after 2019, reaching
+--    0.65% in 2021 and 0.55% in 2023.
+--
+-- 4. During the major 2022–2023 food-price increase, Sweden
+--    followed the broader EU27 food-price trajectory closely.
+--
+-- 5. The data therefore does not support the conclusion that
+--    Sweden experienced dramatically higher food inflation
+--    than the EU27 during the study period.
+-- ============================================================
+
+
+
+
+-- ============================================================
+-- OVERALL PROJECT FINDINGS
+-- ============================================================
+--
+-- 1. Food prices increased substantially across all 10 selected
+--    categories between 2018 and 2023, with the strongest
+--    increases concentrated in sugar, vegetable oils and eggs.
+--
+-- 2. The major food-price acceleration occurred after 2021,
+--    with average food CPI increasing by 10.33% in 2022 and
+--    13.52% in 2023.
+--
+-- 3. Fixed-price food sales declined by 6.36% between 2021
+--    and 2023, with 34 of 39 categories showing declines.
+--
+-- 4. Import prices increased more strongly than consumer food
+--    prices during 2021–2023, indicating substantial upstream
+--    price pressure.
+--
+-- 5. Sweden's food-price development remained broadly aligned
+--    with the EU27, despite maintaining a small positive
+--    difference throughout the period.
+--
+-- Overall, the analysis indicates a period of strong food-price
+-- acceleration after 2021, accompanied by increased upstream
+-- import-price pressure and declining fixed-price sales activity.
+--
+-- The analysis is descriptive and does not establish causality
+-- between import prices, consumer prices and sales.
+-- ============================================================
