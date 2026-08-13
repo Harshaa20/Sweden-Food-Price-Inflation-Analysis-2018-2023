@@ -1,48 +1,47 @@
 # Sweden Food Price Inflation Analysis | 2018–2023
 
-> A self-directed business analytics project exploring food-price inflation in Sweden, category-level price changes, import-price pressure, real food sales, and Sweden's position relative to the EU27.
+A self-directed business analytics project investigating why food prices in Sweden rose so sharply, where the pressure was concentrated, and what it meant for real food sales.
 
-## Live Dashboard
+## Dashboard Link 
 https://public.tableau.com/views/SwedenFoodPriceInflationAnalysis20182023_17866305614900/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+---
+
+## Why I Did This Project
+
+As a student living in Sweden, one of the most noticeable changes in everyday life during 2022–2023 was the cost of food. Grocery prices were rising quickly, and it raised a simple question for me:
+
+**What was actually happening behind the increase in Swedish food prices?**
+
+This was not an academic exercise I was assigned. It started from a real observation as a consumer and became a business analytics question.
+
+The timing was significant. Sweden experienced a sharp acceleration in food inflation after 2021. The Riksbank attributed the broader inflation shock to post-pandemic supply and demand imbalances, rising energy and commodity prices, and additional disruptions caused by Russia's invasion of Ukraine. Energy costs also affect the food supply chain through production, processing, storage and transportation. :contentReference[oaicite:1]{index=1}
+
+SCB reported that Swedish food prices were 18.6% higher in December 2022 than a year earlier, making the increase impossible to dismiss as normal year-to-year price variation. :contentReference[oaicite:2]{index=2}
+
+I wanted to use actual Swedish and European data to understand the story rather than relying on headlines.
 
 ---
 
-## Project Overview
+## Business Problem
 
-Food prices became a major economic and business issue across Europe during 2022–2023. I wanted to investigate the Swedish food market beyond simply measuring whether prices increased.
+The overall food-price index tells us that prices increased, but it does not answer the questions that matter to a business.
 
-This project examines:
+I wanted to understand:
 
-- How food prices changed between 2018 and 2023
-- Which food categories experienced the largest price increases
-- How import prices moved relative to consumer food prices
-- How fixed-price food sales changed during the period
-- How Sweden's food-price trajectory compared with the EU27
+- When did food-price inflation actually accelerate?
+- Which food categories were most exposed?
+- Were upstream import prices moving differently from consumer food prices?
+- Did real food sales change as prices increased?
+- Was Sweden experiencing something unique, or was this part of a wider European trend?
 
-This was a **self-directed portfolio project** focused on applying practical data analytics skills across the full workflow:
-
-**Python → SQL → Business Analysis → Tableau**
-
-The project intentionally focuses on descriptive analytics rather than predictive modelling or advanced statistical methods.
+The goal was therefore to move from **"food became more expensive"** to a more useful view of **where the pressure occurred, how the market responded, and what businesses could learn from it.**
 
 ---
 
-## Business Questions
+# Key Results
 
-1. How did food prices in Sweden evolve between 2018 and 2023?
-2. Which food categories experienced the largest price increases?
-3. Did import prices increase faster than consumer food prices?
-4. What happened to fixed-price food sales during the period of accelerating inflation?
-5. How closely did Sweden's food-price trajectory follow the EU27?
-
----
-
-# 📈 Key Results
-
-## 1. Food-price inflation accelerated sharply in 2022–2023
-
-Annual food CPI growth remained relatively moderate through 2021 before accelerating significantly:
+### Food-price inflation accelerated sharply
 
 | Year | Food CPI | YoY Change |
 |---|---:|---:|
@@ -50,142 +49,267 @@ Annual food CPI growth remained relatively moderate through 2021 before accelera
 | 2019 | 97.81 | +2.78% |
 | 2020 | 100.00 | +2.24% |
 | 2021 | 99.95 | -0.05% |
-| **2022** | **110.27** | **+10.33%** |
-| **2023** | **125.19** | **+13.52%** |
+| 2022 | 110.27 | +10.33% |
+| 2023 | 125.19 | +13.52% |
 
-**Key result:** The major acceleration in food-price inflation occurred in **2022–2023**, rather than being evenly distributed across the entire 2018–2023 period.
+The major acceleration occurred in **2022–2023**, rather than being evenly distributed across the six-year period.
 
 ---
 
-## 2. Food inflation varied substantially across categories
+### The impact differed substantially by food category
 
-The food CPI dataset contained **58 product categories**.
+The analysis covered **58 food CPI categories**.
 
-The largest price increases between January 2018 and December 2023 were:
+The largest price increases from January 2018 to December 2023 were:
 
-| Food Category | Price Increase |
+| Category | Increase |
 |---|---:|
 | Cane sugar and beet sugar | **+64.06%** |
 | Vegetable oils | **+60.39%** |
 | Eggs | **+55.05%** |
-| Fish, live, fresh, chilled or frozen | **+53.86%** |
-| Macaroni, noodles, couscous and similar pasta products | **+52.71%** |
+| Fish | **+53.86%** |
+| Pasta | **+52.71%** |
 | Margarine and similar preparations | **+51.38%** |
-| Offal, blood and other parts of slaughtered animals | **+50.71%** |
+| Offal | **+50.71%** |
 | Flour of cereals | **+48.64%** |
 | Other fruits, fresh | **+46.35%** |
-| Fruit-bearing vegetables, fresh or chilled | **+46.11%** |
+| Fruit-bearing vegetables | **+46.11%** |
 
 The smallest increase among the analysed categories was **+11.27%**.
 
-**Key result:** Food inflation was highly uneven across product categories rather than being a uniform increase across the food market.
+This shows that food inflation was not a uniform increase across the market.
 
 ---
 
-## 3. Import prices increased faster than consumer food prices
+### Import prices increased faster than consumer food prices
 
 Between 2021 and 2023:
 
-| Indicator | 2021 | 2023 | Change |
-|---|---:|---:|---:|
-| Import Price Index | 100.79 | 143.23 | **+42.1%** |
-| Food CPI | 99.95 | 125.19 | **+25.2%** |
+- Import Price Index: **100.79 → 143.23 (+42.1%)**
+- Food CPI: **99.95 → 125.19 (+25.2%)**
 
-**Key result:** Import prices increased substantially faster than consumer food prices during 2021–2023, indicating significant upstream price pressure during the same period as the acceleration in food inflation.
+The stronger increase in import prices indicates significant upstream price pressure during the same period in which consumer food prices accelerated.
 
-This is an observed relationship, **not proof of causation**.
+This is an observed relationship, not proof that import prices alone caused consumer inflation.
 
 ---
 
-## 4. Fixed-price food sales declined after the 2021 peak
+### Real food sales declined after the 2021 peak
 
-Fixed-price food sales reached their highest level in 2021:
+Fixed-price food sales:
 
-| Year | Fixed-price Food Sales |
-|---|---:|
-| 2018 | 220,250 |
-| 2019 | 218,525 |
-| 2020 | 230,818 |
-| **2021** | **236,631** |
-| 2022 | 230,246 |
-| 2023 | 221,594 |
+- 2021: **236,631**
+- 2022: **230,246**
+- 2023: **221,594**
 
-From 2021 to 2023, fixed-price food sales declined by approximately **6.36%**.
+This represents a **6.36% decline between 2021 and 2023**.
 
-**Key result:** The decline in fixed-price sales coincided with the period of accelerating food-price inflation.
+This matters because nominal sales can rise simply because prices rise. Looking at fixed-price sales provides a better view of changes in real sales activity.
 
-This does not establish that inflation alone caused the decline.
+SCB similarly reported that Swedish consumers bought less food by volume in 2022 despite spending more money, with food and beverage sales increasing 6.6% in value while volume declined 2.7%. :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 5. Sweden broadly followed the EU27 food-price trajectory
+### Sweden broadly followed the EU27
 
-| Year | Sweden | EU27 | Sweden vs EU27 |
-|---|---:|---:|---:|
-| 2018 | 105.89 | 104.51 | +1.32% |
-| 2019 | 108.97 | 106.71 | +2.11% |
-| 2020 | 111.27 | 109.43 | +1.68% |
-| 2021 | 111.85 | 111.13 | +0.65% |
-| 2022 | 124.90 | 124.34 | +0.45% |
-| 2023 | 140.82 | 140.06 | +0.55% |
+The Sweden–EU27 difference narrowed from:
 
-The Sweden–EU27 gap narrowed from **2.11% in 2019 to 0.55% in 2023**.
+**+2.11% in 2019 → +0.55% in 2023**
 
-**Key result:** Sweden's food-price trajectory was broadly aligned with the EU27 rather than representing an isolated Swedish development.
+Sweden therefore followed a broadly similar food-price trajectory to the EU27 rather than experiencing a completely isolated Swedish shock.
 
 ---
 
 # Business Insights
 
-### Procurement & sourcing
+### 1. Food inflation is a category-level problem, not just an overall CPI problem
 
-Food inflation varied considerably by category. Sugar, vegetable oils, eggs, pasta and flour were among the categories experiencing the strongest price increases.
+The difference between **+64.06% for sugar** and **+11.27% for the lowest-increase category** shows why businesses should not treat food inflation as one uniform cost increase.
 
-**Business implication:** Procurement teams should monitor category-level cost exposure rather than relying only on an overall food-inflation figure.
+For procurement and supply-chain teams, category-level monitoring can identify where cost exposure is actually concentrated.
 
-### Pricing & margin management
+### 2. Upstream price pressure matters
 
-A single food CPI number can hide substantial differences between individual product categories.
+Import prices increased much faster than consumer food prices between 2021 and 2023.
 
-**Business implication:** Category-level inflation can provide better context for pricing, margin management and supplier negotiations.
+For businesses dependent on imported food or food inputs, monitoring upstream price indicators can provide additional context for procurement, supplier negotiations and cost planning.
 
-### Supply-chain monitoring
+### 3. Higher prices did not translate into stronger real sales
 
-Import prices increased by approximately **42.1% between 2021 and 2023**, considerably faster than food CPI.
+Fixed-price food sales fell after 2021 while food prices accelerated.
 
-**Business implication:** Monitoring upstream import-price indicators alongside consumer prices can provide additional context when assessing supply-chain cost pressure.
+For a business, this distinction matters:
 
-### Demand & sales
+**Higher nominal sales ≠ higher real demand.**
 
-Fixed-price food sales declined by approximately **6.36% from 2021 to 2023** while food prices accelerated.
+Pricing, demand planning and revenue analysis therefore need to separate price effects from volume effects.
 
-**Business implication:** Businesses need to distinguish between nominal sales growth caused by higher prices and genuine growth in real sales activity.
+### 4. The Swedish experience was part of a wider European shock
 
-### European benchmarking
+The close Sweden–EU27 movement suggests that businesses should distinguish between country-specific developments and broader European cost pressures.
 
-Sweden's food-price trajectory remained close to the EU27 throughout the period.
-
-**Business implication:** Comparing national price movements with regional benchmarks can help distinguish country-specific developments from broader European market conditions.
+This is particularly relevant for companies operating across multiple European markets.
 
 ---
 
-# Project Workflow
+# Analysis Approach
+
+The project deliberately uses **descriptive business analytics** rather than predictive modelling.
+
+The analysis followed five stages:
+
+### 1. Data Cleaning — Python
+
+Cleaned and prepared the raw statistical datasets in Google Colab using Python and Pandas.
+
+Key work included:
+
+- Data-type conversion
+- Date standardization
+- Missing-value checks
+- Column standardization
+- Filtering relevant observations
+- Data validation
+
+### 2. Database Preparation — MySQL
+
+Loaded the cleaned datasets into MySQL using DBeaver.
+
+This created a structured environment for analysing multiple datasets consistently.
+
+### 3. SQL Analysis
+
+Used SQL to answer the business questions through:
+
+- Aggregation
+- Grouping
+- Filtering
+- Joins
+- Date functions
+- Year-over-year calculations
+- Percentage-change calculations
+- Current vs fixed-price comparisons
+- Sweden vs EU27 benchmarking
+
+### 4. Dashboard Preparation
+
+Created SQL views specifically for visualization rather than putting all analytical logic directly into Tableau.
+
+### 5. Tableau Visualization
+
+Built three dashboards:
+
+1. **Executive Overview**
+2. **Food Prices, Import Pressure & Sales**
+3. **Sweden vs EU27 | Food Price Context**
+
+---
+
+# Concepts I Learned
+
+This project strengthened my understanding of several practical analytics concepts.
+
+### Data Analytics
+
+- Data cleaning and validation
+- Working with multiple real-world datasets
+- Choosing the right metric for a business question
+- Trend analysis
+- Year-over-year analysis
+- Category benchmarking
+- Cross-market comparison
+
+### SQL
+
+- Aggregation with `SUM()`, `AVG()` and `COUNT()`
+- `GROUP BY` and `HAVING`
+- Filtering with `WHERE`
+- Joining datasets
+- Date functions
+- Percentage-change calculations
+- Creating reusable SQL views
+- Separating analysis logic from visualization logic
+
+### Business Analytics
+
+- Translating a real-world observation into measurable business questions
+- Distinguishing nominal values from real/fixed-price values
+- Identifying category-level exposure
+- Using upstream indicators to understand cost pressure
+- Benchmarking Sweden against a regional reference
+- Converting analytical findings into procurement, pricing and demand implications
+- Understanding the difference between correlation and causation
+
+### Data Visualization
+
+- Choosing charts based on the question rather than the dataset
+- KPI design
+- Trend visualization
+- Ranked category comparisons
+- Comparative line charts
+- Dashboard hierarchy
+- Presenting analytical results for a business audience
+
+---
+
+# What I Learned
+
+The biggest lesson from this project was that **good business analysis is not about making the analysis unnecessarily complicated.**
+
+The project started with a simple personal observation — food felt much more expensive in Sweden — but answering that question properly required moving through the entire analytics process:
+
+**Observation → Business Question → Data → Cleaning → SQL → Findings → Business Interpretation → Dashboard**
+
+I learned that an analyst has to make decisions at every stage:
+
+- What should actually be measured?
+- Which comparison is meaningful?
+- Does the result make business sense?
+- Is the result robust enough to communicate?
+- What can the data prove?
+- What can it not prove?
+
+One of the most important lessons was learning to avoid overclaiming. For example, import prices and food CPI both increased strongly, but this analysis does not prove that import prices caused consumer food inflation. Likewise, declining fixed-price sales occurred alongside rising food prices, but inflation cannot be isolated as the sole cause.
+
+That distinction between **finding a relationship and claiming causation** is something I consider an important part of becoming a better business analyst.
+
+---
+
+# Limitations
+
+This project intentionally remains descriptive.
+
+- It does not establish causal relationships.
+- Import-price increases are not proven to be the direct cause of food-price inflation.
+- The decline in fixed-price sales cannot be attributed to inflation alone.
+- Category-level CPI movements are not expenditure-weighted measures of household impact.
+- The analysis covers 2018–2023 and is not intended as a current market forecast.
+- No predictive modelling or advanced statistical inference was applied.
+
+---
+
+# Tools
+
+**Python · Pandas · Google Colab · MySQL · DBeaver · Tableau Public · Git/GitHub**
+
+---
+
+# Project Structure
 
 ```text
-Public Statistical Data
-        ↓
-Python / Google Colab
-        ↓
-Data Cleaning & Validation
-        ↓
-MySQL Database
-        ↓
-SQL Analysis in DBeaver
-        ↓
-Dashboard-ready SQL Views
-        ↓
-CSV Exports
-        ↓
-Tableau Public
-        ↓
-Interactive Business Dashboards
+Sweden-Food-Price-Inflation/
+│
+├── data/
+│   ├── raw/
+│   ├── cleaned/
+│   └── dashboard/
+│
+├── notebooks/
+│   └── 01_data_cleaning.ipynb
+│
+├── sql/
+│   ├── 02_sql_analysis.sql
+│   ├── 03_sql_key_findings.sql
+│   └── 04_dashboard_views.sql
+│
+└── README.md
