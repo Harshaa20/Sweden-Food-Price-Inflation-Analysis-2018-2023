@@ -115,7 +115,7 @@ Four official government datasets:
 
 This project is deliberately descriptive. It identifies relationships and patterns in the data. It does not establish causal relationships. Import price increases are not proven to be the direct cause of food price inflation. The decline in fixed-price sales cannot be attributed to inflation alone. No predictive modelling was applied. The analysis covers 2018 to 2023 and is not a current market forecast.
 
-> For forward-looking demand analysis, see Part 2: [Swedish Retail Demand Recovery (2015–2026)](INSERT_GITHUB_LINK_HERE)
+> For forward-looking demand analysis, see Part 2: https://github.com/Harshaa20/Sweden-Retail-Demand-Recovery-2015-2026
 
 ---
 
