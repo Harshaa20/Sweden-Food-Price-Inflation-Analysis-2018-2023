@@ -10,10 +10,16 @@ Swedish food prices rose 25.2% between 2021 and 2023 while upstream import price
 
 [View on Tableau Public](https://public.tableau.com/views/SwedenFoodPriceInflationAnalysis20182023_17866305614900/ExecutiveOverview)
 
-Three dashboards published:
-- Executive Overview
-- Food Prices, Import Pressure and Sales
-- Sweden vs EU27 Food Price Context
+## Dashboard preview
+
+**Page 1 -- Risk Overview**  
+![Risk Overview](screenshots/Overview.png)
+
+**Page 2 -- Supply Concentration**  
+![Supply Concentration](screenshots/Overall Analysis.png)
+
+**Page 3 -- Price Risk and Conclusions**  
+![Price Risk](screenshots/European Comparison.png)
 
 ---
 
